@@ -1,0 +1,123 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+body
+{
+    background: #0C3C60;
+    overflow: scroll;
+}
+.header
+{
+    position: fixed;
+    background: #0C3C60;
+    height: 100px;
+    width: 100%;
+    float: top;
+    border-bottom: 1px solid #8FC7BE;
+}
+.header img
+{
+    height: 100px;
+    float: left;
+    background: #8FC7BE;
+}
+.header h1
+{
+    color: #8FC7BE;
+    text-decoration-line: none;
+    padding-left: 50px;
+    padding-top: 20px;
+    float: left;
+    font-family: Comic Sans MS;
+}
+.menuber li a
+{
+    float: right;
+    font-size: 20px;
+    text-decoration-line: none;
+    font-family: Comic Sans MS;
+    padding-right: 40px;
+    padding-top: 30px;
+    color: #8FC7BE;
+}
+.menuber li
+{
+    list-style: none;
+}
+.image
+{
+    height: 500px;
+    width: 100%;
+    overflow: hidden;
+}
+.direction
+{
+    width: 100%;
+    height: 350px;;
+}
+.map
+{
+    float: left;
+    width: 40%;
+    padding-left: 5px;
+}
+.image1
+{
+    padding-top: 250px;
+    padding-left: 300px;
+    height: 400px;
+}
+.image1 img
+{
+    padding: 20px;
+    border: 5px solid #8FC7BE;
+    
+}
+
+.font
+{
+    font-family:Comic Sans MS;
+    color: #8FC7BE; 
+    padding-left: 100px;
+    
+}
+.footer
+{
+    height: 120px;
+    width: 100%;
+    background: #8FC7BE;
+    font-family: Comic Sans MS;
+}
+.c_content
+{
+    padding-top: 150px;
+    font-family: cursive;
+    font-size: 20px;
+    color: #8FC7BE;
+}.news
+{
+    padding-left: 1000px;
+    padding-right: 100px;
+}
+.news li
+{
+    list-style: none;
+    padding-top: 10px;
+}
+.news li a
+{
+    text-decoration-line: none;
+    font-family: cursive;
+    color: #8FC7BE;
+}
+.project
+{
+    width: 100%;
+    height: 400px;
+    padding-top: 150px;
+    color: #8FC7BE;
+    font-family: cursive;
+}
+
